@@ -70,4 +70,7 @@ dotenv
 
 ---
 
+![vendas19_05](https://github.com/user-attachments/assets/68ee242b-9d6d-41ea-a480-3a4d01f66788)
+![produtos19_05](https://github.com/user-attachments/assets/9faf06ab-5aa3-4283-8ee7-55d8a8432558)
+
 ### Projeto desenvolvido para Orama Brasil, focado em otimizar análises internas e melhorar a gestão de dados.
